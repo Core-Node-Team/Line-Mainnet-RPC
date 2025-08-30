@@ -49,4 +49,4 @@ docker compose up -d
 ```
 docker logs -f besu-mainnet
 ```
-NOT: PORT 8549 dur.
+NOT: PORT 8549 dur. yani rpcniz şöyle `http://sunucu_ip:8549`
